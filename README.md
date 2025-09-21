@@ -7,6 +7,7 @@ vi config.json
 paste JSON content:
 
 {
+
   "metrics": {
   
     "metrics_collected": {
