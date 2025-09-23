@@ -1,5 +1,11 @@
 # cloudwatch-metrix
 
+installing cloudwatch agent 
+
+sudo yum install -y amazon-cloudwatch-agent
+
+sudo dnf install -y amazon-cloudwatch-agent
+
 cd /opt/aws/amazon-cloudwatch-agent/bin
 
 vi config.json
